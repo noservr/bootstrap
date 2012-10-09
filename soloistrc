@@ -1,0 +1,8 @@
+cookbook_paths:
+- ./cookbooks/
+- ./site-cookbooks/
+recipes:
+#- main
+- build-essential
+node_attributes:
+
